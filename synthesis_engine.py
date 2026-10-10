@@ -37,7 +37,7 @@ class DashboardPipeline(dspy.Module):
         )
 
 
-lm = dspy.LM(model="gemini/gemini-2.5-flash", temperature=0.0)
+lm = dspy.LM(model="gemini/gemini-3.8-flash", temperature=0.0)
 dspy.configure(lm=lm)
 
 master_synthesis_node = DashboardPipeline()
