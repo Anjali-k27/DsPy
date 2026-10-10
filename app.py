@@ -1,7 +1,7 @@
 import streamlit as st
 from synthesis_engine import master_synthesis_node
 
-st.set_page_config(layout="wide", page_title="Newton SkillUP AlphaFund OS")
+st.set_page_config(layout="wide", page_title="Implementing DsPY")
 st.title("Newton SkillUP AlphaFund OS")
 
 user_query = st.text_input("Strategic Query:")
