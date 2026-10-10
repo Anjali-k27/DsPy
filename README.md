@@ -271,3 +271,9 @@ Provide an overview of Alpha AI's market position.
 - Neo4j — graph-structured relational data
 
 In a production deployment each layer would connect to a live database. In this build they are simulated strings, keeping the focus on the synthesis and reasoning layer.
+
+## Output 
+
+**Terminal Output** 
+
+**Streamlit Dashboard Output**
