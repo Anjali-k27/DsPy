@@ -276,4 +276,8 @@ In a production deployment each layer would connect to a live database. In this 
 
 **Terminal Output** 
 
+<img width="1387" height="457" alt="image" src="https://github.com/user-attachments/assets/714895ae-3ee4-47cd-9cfd-2e7f4f464f58" />
+
 **Streamlit Dashboard Output**
+
+
