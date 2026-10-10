@@ -280,4 +280,5 @@ In a production deployment each layer would connect to a live database. In this 
 
 **Streamlit Dashboard Output**
 
+<img width="1747" height="802" alt="image" src="https://github.com/user-attachments/assets/a74fa3b8-749f-47d7-80db-9c92dc222a44" />
 
